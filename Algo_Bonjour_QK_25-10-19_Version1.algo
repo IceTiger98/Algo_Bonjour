@@ -1,0 +1,11 @@
+Algorithme:Algo_Bonjour
+//BUT:Dire "Bonjour"
+//ENTREE:Saisir
+
+VAR:prenom;CHAINE
+
+DEBUT
+		ECRIRE"Saisir votre prenom"
+		LIE prenom
+		ECRIRE "Bonjour", prenom
+FIN
